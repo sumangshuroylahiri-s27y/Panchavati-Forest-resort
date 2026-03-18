@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-forest: #0A1A08;
+  --color-deep-green: #1B3A1B;
+  --color-moss: #2D5016;
+  --color-gold: #C8922A;
+  --color-gold-light: #E8B84B;
+  --color-terracotta: #7D3B1E;
+  --color-parchment: #F2EBD9;
+  --color-cream: #FAF6EE;
+  --color-bark: #1A1208;
+  --color-muted: #6B5E4C;
+
+  --font-serif: "Cormorant Garamond", serif;
+  --font-cursive: "Great Vibes", cursive;
+  --font-sans: "Jost", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply font-sans bg-cream text-bark selection:bg-gold selection:text-white;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .section-label {
+    @apply font-cursive text-gold text-3xl mb-2;
+  }
+  .section-title {
+    @apply font-serif text-4xl md:text-5xl lg:text-6xl text-dark-forest mb-6 leading-tight;
+  }
+  .btn-gold {
+    @apply bg-gold hover:bg-gold-light text-white px-8 py-3 rounded-none transition-all duration-300 font-medium tracking-wider uppercase text-sm;
+  }
+  .btn-outline {
+    @apply border-2 border-white/30 hover:border-gold hover:text-gold text-white px-8 py-3 rounded-none transition-all duration-300 font-medium tracking-wider uppercase text-sm;
+  }
+  .glass-card {
+    @apply bg-white/10 backdrop-blur-md border border-white/20 p-8;
+  }
+}
+
+/* Custom styles for masonry and animations */
+.masonry-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-auto-rows: 200px;
+  gap: 1rem;
+}
+
+.masonry-item-large {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+@media (max-width: 768px) {
+  .masonry-item-large {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+}
+
+.parallax-bg {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Hide scrollbar but keep functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

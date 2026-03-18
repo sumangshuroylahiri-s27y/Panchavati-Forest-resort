@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "name": "Panchavati Forest Resort",
+    "tagline": "A New Tourist Destination in Dooars Panorama",
+    "location": "Gorumara National Park, Lataguri, Jalpaiguri, West Bengal — 735101",
+    "phones": ["+91-98320-68303", "+91-98320-60164", "+91-94743-83828"],
+    "emails": ["info@panchavatiforestresort.com"],
+    "checkIn": "12:00 PM",
+    "checkOut": "11:00 AM",
+    "whatsapp": "+91-98320-68303",
+    "whatsappUrl": "https://api.whatsapp.com/send/?phone=919832068303",
+    "facebook": "https://www.facebook.com/PanchavatiForestResortLataguri/",
+    "instagram": "https://www.instagram.com/panchavati.forest.resort/",
+    "logo": "https://scontent.fccu4-2.fna.fbcdn.net/v/t1.6435-9/76689036_132863434791174_6829420676961533952_n.png?stp=cp0_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=53a332&_nc_ohc=dQYFt3fCGN4Q7kNvwHgqYQ7&_nc_oc=AdlDf_tezS66aGkGMIA-jxpNu2s155eXrQBsbLCe14imD2uT6SAKxf7z8NT0PTKKjqk&_nc_zt=23&_nc_ht=scontent.fccu4-2.fna&_nc_gid=fR-vN5nLvN87T2VeZi3CZA&_nc_ss=8&oh=00_AfwW-oZzZf1XszUI52NKyReyyH_9Ru6jtzlSxq-dtBi0hw&oe=69E1D2BF"
+  },
+  "hero": {
+    "label": "Welcome to",
+    "title": "Panchavati Forest Resort",
+    "sub": "A New Tourist Destination in Dooars Panorama",
+    "line": "Gorumara National Park · Lataguri · West Bengal",
+    "buttons": [
+      { "text": "Reserve Your Stay", "link": "#booking" },
+      { "text": "Explore the Wild", "link": "#explore" }
+    ],
+    "slides": [
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/h1.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/h2.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/h3.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/h4.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/h5.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/h6.jpg"
+    ]
+  },
+  "about": {
+    "label": "Our Story",
+    "title": "Welcome to Panchavati Forest Resort",
+    "image": "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/01.jpg",
+    "paragraphs": [
+      "Panchavati Forest Resort is one of the better accommodations in Lataguri. Situated adjacent to Gorumara National Park. We have a large ground and a restaurant. The refreshing greens all over, clean air and the placid environ give a real feel of nature.",
+      "We have few traditionally decorated cottages and four and eight bedded family rooms with latest modern amenities of living, living room of each being covered with wall to wall mattress and attached bathroom, geyser & observatory balcony. There is an open-air restaurant, a lawn with a well-maintained garden and children's park at the resort.",
+      "An ideal place to explore the wilderness of Gorumara, Chapramari and Jaldapara."
+    ],
+    "stats": [
+      { "value": "6", "label": "Rooms & Cottages" },
+      { "value": "4.9 km", "label": "To Gorumara" },
+      { "value": "32+", "label": "Years Heritage" }
+    ]
+  },
+  "accommodation": {
+    "label": "Stay With Us",
+    "title": "Accommodation at Panchavati Forest Resort",
+    "subtext": "Few traditionally decorated cottages and family rooms with latest modern amenities — wall to wall mattress, attached bathroom, geyser & observatory balcony.",
+    "cards": [
+      {
+        "name": "Bamboo Forest Cottage",
+        "image": "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/ac1.jpg",
+        "badge": "Best Seller",
+        "desc": "Three double-bedded traditionally decorated rooms in a single-storied bamboo cottage. Surrounded by natural forest with flowers and greenery. Each room features an observatory balcony overlooking the forest.",
+        "features": ["Double Bed", "Observatory Balcony", "Attached Bathroom", "Geyser", "Room Service", "Forest View"]
+      },
+      {
+        "name": "Four-Bedded Family Room",
+        "image": "https://images.weserv.nl/?q=100&url=www.panchavatiforestresort.com/photos/ac3.jpg",
+        "desc": "Two spacious four-bedded family rooms with living room covered with wall to wall mattress. Ideal for families wanting every modern amenity with the warmth of nature around them.",
+        "features": ["4 Beds", "Living Area", "Colour TV Tata Sky", "Geyser", "Attached Bathroom", "Western Toilet"]
+      },
+      {
+        "name": "Eight-Bedded Dormitory",
+        "image": "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/ac5.jpg",
+        "badge": "Groups & Budget",
+        "desc": "Perfect for large groups, school tours or budget travellers. Full Dooars experience without compromise on comfort, security, or the magic of the forest.",
+        "features": ["8 Beds", "Group Friendly", "24hr Security", "Jungle Library", "Car Parking", "Travel Desk"]
+      }
+    ]
+  },
+  "cuisine": {
+    "label": "Our Kitchen",
+    "title": "Cuisine at Resort",
+    "images": [
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/images/food1.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/images/food2.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/images/food3.jpg"
+    ],
+    "text": "Have a beautiful view of the misty forests as you dine at the large and exquisite Dining Hall. Main cuisine is the local river fish prepared in homely recipe. The food is homely and delicious. Menu includes both veg and non-veg cuisine. We also have an arrangement for whole day budget meal system @ Rs. 350/- per head per day (10% service charges extra).",
+    "chips": [
+      "Local River Fish — Signature Homely Recipe",
+      "Veg & Non-Veg — Full Menu Variety",
+      "Budget Meals — Rs.350 per head per day (10% SC extra)"
+    ]
+  },
+  "facilities": {
+    "label": "Amenities",
+    "title": "Facilities at Panchavati Forest Resort",
+    "subtext": "The Panchavati Forest Resort sets a high standard of hospitality with facilities of excellent accommodation and numerous opportunity of indulging into several wildlife activities.",
+    "items": [
+      "Conference Hall", "Exuberant Children's Corner", "Colour TV with Tata Sky Service", "Running Water Round the Clock",
+      "Day & Night Jungle Safari", "Free Driver Accommodation", "Trained Forest Guide", "Telephone",
+      "Car Parking", "24-hrs Security", "Doctor on Call", "Car on Rental",
+      "Geyser", "Laundry", "Room Service", "Jungle Library", "Travel Desk"
+    ]
+  },
+  "explore": {
+    "label": "Around The Resort",
+    "title": "Welcome to Dooars",
+    "intro": "Dooars is famous for its rich biodiversity and superfluity of wildlife in its Gorumara National Park, Chapramari forests, Jaldapara Wild Life Sanctuary and Buxa Tiger Reserve. Beautiful motorable roads cutting through deep forests, mauve hills standing at the end of velvet green plains, forests echoing with the melody of birds and fabulous wildlife sanctuaries with picture-postcard, log cabin lodges, valleys carpeted with tea gardens, small quiet ethnic villages, vast meadows with a blue outline of the Himalayan ranges in the horizon, endless sky.... You are in Dooars!",
+    "cards": [
+      {
+        "image": "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/images/abt-dooars3.jpg",
+        "distance": "Adjacent to Resort",
+        "title": "Gorumara National Park",
+        "text": "The land of the prehistoric Great Indian One-Horned Rhinoceros. Animals include Elephants, Indian Bisons, Wild Boars, Leopards, Peacocks, Rock Python, Sambar Deer, Barking Deer and many birds. Car safari available during afternoon with visit to Tribal village."
+      },
+      {
+        "image": "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/images/abt-dooars2.jpg",
+        "distance": "32 km",
+        "title": "Chapramari Wildlife Sanctuary",
+        "text": "Famous for its jungle and elephants. Also home to Gaur, Wild Boar, Leopards, Royal Bengal Tiger, Himalayan Langoor, deer, reptiles. Paradise for bird watchers — Black partridges, Green pigeon, Florican, Peafowl, Hornbill, Roller and many more."
+      },
+      {
+        "image": "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/images/abt-dooars4.jpg",
+        "distance": "Day Trip",
+        "title": "Jhalong & Bindu",
+        "text": "Rare view of the Bhutan Himalayas and snow peaks in winter. Jaldhaka Hydro Electricity project. Village Tours, Bird Watching and Short Trekking to Todey and Tangta at foothills of Neora Valley."
+      },
+      {
+        "image": "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/ac4.jpg",
+        "distance": "Day Trip",
+        "title": "Jaldapara National Park",
+        "text": "Main attraction is the Asiatic One-Horned Rhinoceros. Wildlife includes Royal Bengal Tigers, wild elephants, bisons, deers. Area 216 sq km. Tribes of the region are colorful and hospitable."
+      },
+      {
+        "image": "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/ac2.jpg",
+        "distance": "Nearby",
+        "title": "Samsing & Suntalekhola",
+        "text": "Nature lover's paradise through picturesque Dooars tea gardens on rolling hill slopes. Suntaley Khola — birding heaven. The hills with green all around in this divine landscape."
+      },
+      {
+        "image": "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/ac3.jpg",
+        "distance": "22 km from Madarihat",
+        "title": "Totopara — Toto Tribe",
+        "text": "Home to the Toto Tribe, one of the few remaining tribes of its kind in the world. Their customs and culture have invoked great interest amongst anthropologists."
+      }
+    ]
+  },
+  "reach": {
+    "label": "Getting Here",
+    "title": "Communicative Distances of Resort",
+    "journey": "A journey through an unperturbed environment starts just after leaving Siliguri, along NH-31, passing through scenic beauties of Mong-Pong, Oodlabari, Bagrakote, and Malbazer — view slender and beautiful rivers Leas, Ghase and many more. After reaching Chalsa the right road leads to the verdant green of Gorumara National Park and Lataguri.",
+    "mainCards": [
+      { "label": "Bagdogra Airport", "value": "87 km" },
+      { "label": "New Jalpaiguri Railway Station(NJP)", "value": "72 km" },
+      { "label": "Tenzing Norgey Bus Terminus", "value": "74 km" },
+      { "label": "Siliguri", "value": "71 km" }
+    ],
+    "smallDistances": [
+      { "label": "Gorumara Watch Tower Ticket Point", "value": "4.9 km" },
+      { "label": "Neora Naddi Railway Station", "value": "5.7 km" },
+      { "label": "Kranti More Bus Stop", "value": "2.5 km" },
+      { "label": "Bhandani Temple", "value": "7.5 km" },
+      { "label": "Chapramari", "value": "32 km" }
+    ],
+    "note": "Price for Pick-Up / Car services to be inquired at the time of requirement from the place via cell / land-line phones at city office."
+  },
+  "gallery": {
+    "title": "Glimpses of Panchavati Forest Resort",
+    "grid": [
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/rs1.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/rs2.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/rs3.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/rs4.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/rs5.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/rs6.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/rs7.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/rs8.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/rs9.jpg"
+    ],
+    "all": [
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/01.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/02.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/03.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/04.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/05.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/06.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/07.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/08.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/09.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/10.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/11.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/12.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/13.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/14.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/15.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/16.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/17.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/18.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/19.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/20.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/21.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/22.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/23.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/24.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/25.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/26.jpg",
+      "https://images.weserv.nl/?q=100&w=1920&url=www.panchavatiforestresort.com/photos/27.jpg"
+    ]
+  },
+  "bookingForm": {
+    "label": "Reservations",
+    "title": "Online Booking to Panchavati Forest Resort",
+    "subtext": "Kindly fill-up the form below to send room booking or tour booking request."
+  }
+}
